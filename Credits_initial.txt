@@ -1,11 +1,7 @@
-TLLPS by YourLocalMoon
-https://discord.gg/FGGx7NNAVP
+TLLPS by Skid
 
 <Title>str_credits_main
 Raw Zebra and his team
 
 <Title>str_credits_thanks
-msm.fan for fixing the shop buttons
-quinntendo for helping me add Archaic Dunes
-
-and everyone from the discord server that keep me motivated to make updatez
+The people who made the private servers i used as a base
