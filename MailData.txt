@@ -2,4 +2,4 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 
 intro3;everyone;Welcome!;Heres some gifts!;icon@gift;diamonds@75;foodB@450;coins@2500;Vortex@2;Relic@5
 
-mammott;GAMRLTAJSEMJJDQAQNSM;Gay Bonus;Gay Bonus! Here are some <color=yellow>Goods</color> - RawZebra;icon@present;diamonds@150;Vortex@30;coins@7500000;Relic@-50000
+mammott;everyone;Gay Bonus;Gay Bonus! Here are some <color=yellow>Goods</color> - RawZebra;icon@present;diamonds@150;Vortex@30;coins@7500000;Relic@-50000
