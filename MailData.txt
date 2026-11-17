@@ -3,4 +3,4 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 intro3;everyone;Welcome!;Heres some gifts!;icon@gift;diamonds@75;foodB@450;coins@2500;Vortex@2;Relic@5
 intro2;everyone;Funny Bonus;Funny Bonus! Here are some <color=yellow>Goods</color> - Skid;icon@present;diamonds@150;Vortex@30;coins@7500000;Relic@0;
 intro1;everyone;Free 5 million relics;Free;icon@gift;Relic@-500000000000
-intro4;everyone;Some usefuls;Heres some usefuls!;icon@gift;diamonds@2;foodB@4500;coins@1;Vortex@2;Relic@1;Structures/Structure_stargazer@1;Monsters/Monster_reebro@1
+intro4;everyone;Some usefuls;Heres some usefuls!;icon@gift;diamonds@2;foodB@4500;coins@1;Structures/Structure_stargazer@1;Monsters/Monster_reebro@1
